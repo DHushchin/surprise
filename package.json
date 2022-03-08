@@ -1,0 +1,20 @@
+{
+  "name": "surprise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:frontend": "cd frontend && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHushchin/surprise.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DHushchin/surprise/issues"
+  },
+  "homepage": "https://github.com/DHushchin/surprise#readme"
+}
